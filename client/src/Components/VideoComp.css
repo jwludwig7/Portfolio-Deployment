@@ -1,0 +1,112 @@
+/* video  */
+
+video {
+    width: 100%;
+}
+
+.center h1 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-size: 40pt;
+}
+
+.center h2 {
+    position: absolute;
+    text-align: center;
+    top: 60%;
+    width: 100%;
+}
+
+@media (max-width: 320px) {
+    .center h1{
+        position: absolute;
+        text-align: center;
+        top: 30%;
+    }
+    .center h2 {
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .center h1{
+        position: absolute;
+        text-align: center;
+        top: 20%;
+        font-size: 30pt;
+    }
+    .center h2 {
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .center h1{
+        position: absolute;
+        text-align: center;
+        top: 20%;
+        font-size: 30pt;
+    }
+    .center h2 {
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .center h1{
+        position: absolute;
+        text-align: center;
+        top: 30%;
+        font-size: 30pt;
+    }
+    .center h2 {
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        width: 100%;
+    }
+
+}
+
+
+@media (max-width: 900px) {
+    .center h1{
+        position: absolute;
+        text-align: center;
+        top: 30%;
+    }
+    .center h2 {
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        width: 100%;
+    }
+} 
+
+@media (max-width: 1024px) {
+    .center h1{
+        position: absolute;
+        text-align: center;
+        top: 50%;
+    }
+    .center h2 {
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        width: 100%;
+    }
+
+}

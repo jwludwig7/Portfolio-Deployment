@@ -1,0 +1,49 @@
+\\/* nav bar */
+
+.d-flex1 {
+    display: flex;
+}
+
+.resize Img {
+    /* width: 60%; */
+    width: 30px;
+    align-items: center;
+}
+
+.homelogo{
+    width:60%
+}
+
+.resize {
+    gap: 20%;
+    text-align: center;
+    align-items: center;
+}
+
+
+.cleanUp{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media (max-width: 480px) {
+    .cleanUp h4{
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .cleanUp h4{
+        display: none;
+    }
+    
+} 
+
+@media (max-width: 1024px) {
+    .resize h4{
+        display: none;
+    }
+    .resize{
+        gap: 10%;
+    }
+}

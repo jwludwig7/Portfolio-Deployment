@@ -1,0 +1,11 @@
+.imgSize{
+    width: 15%;
+    margin: 5px;
+}
+
+
+.cleanup{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
