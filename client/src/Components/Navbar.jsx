@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className='d-flex justify-content-around bg-light fixed-top'>
                 <div className='d-flex text-center align-items-center p-1'>
                     <Link to='Vid' spy={true} smooth={true} offset={50} duration={300} ><img className='homelogo' src={home} alt="home" /></Link>
-                    <h1 ><Link className='text-decoration-none text-dark' to='Vid' spy={true} smooth={true} offset={50} duration={300} >JL</Link></h1>
+                    <h1 ><Link className='text-dark JL' to='Vid' spy={true} smooth={true} offset={50} duration={300} >JL</Link></h1>
                 </div>
                 <div className='cleanUp resize p-1'>
                     <div className='resize d-flex p-1'>

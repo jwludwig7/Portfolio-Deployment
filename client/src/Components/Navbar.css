@@ -15,9 +15,13 @@
 }
 
 .resize {
-    gap: 20%;
+    gap: 15%;
     text-align: center;
     align-items: center;
+}
+
+.JL{
+    text-decoration: none;
 }
 
 
@@ -34,6 +38,9 @@
 
 @media (max-width: 767px) {
     .cleanUp h4{
+        display: none;
+    }
+    .JL{
         display: none;
     }
     

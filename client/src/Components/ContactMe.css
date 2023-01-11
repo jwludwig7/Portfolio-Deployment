@@ -25,3 +25,15 @@ a:hover + .content {
 
 }
 
+@media (max-width: 320px){
+    a:hover + .content{
+        display: none;
+    }
+}
+
+@media (max-width: 480px){
+    a:hover + .content{
+        display: none;
+    }
+}
+

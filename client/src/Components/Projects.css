@@ -28,11 +28,22 @@
     .flex Img{
         width: 100%;
     }
+    .zoom:hover{
+        transform: scale(1.2);
+    }
 }
 
 @media (max-width: 480px) {
-
+    .flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .zoom:hover{
+        transform: scale(1.2);
+    }
 }
+
 @media (max-width: 600px) {
     .smallerscreen{
         display: flex;

@@ -41,7 +41,7 @@ const Projects = () => {
                     <hr />
                     <div>
                         <div className='d-flex justify-content-between mt-3 p-3'>
-                            <h3>Jjoke</h3>
+                            <h3>jJoke</h3>
                             <a href="https://github.com/jwludwig7/jJoke"><img src={githublogo} alt="github" /></a>
                         </div>
                         <div className='d-flex smallerscreen'>
