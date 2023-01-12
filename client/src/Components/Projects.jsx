@@ -73,7 +73,7 @@ const Projects = () => {
                                 <ul>
                                     <li className='p-2'>For my C# project I made a Super Marios Bros. inspired 2D game in Unity. This project was challenging but was rewarding once the pieces started coming together.</li>
                                     <li className='p-2'> While I have made many full CRUD websites in C# using .NET6 with MySQL this was not like that at all. I had to learn the Unity Framework and how to get my Player to do certian things, along with having the game act accordingly.</li>
-                                    <li className='p-2'>This was a lot of fun of make, please enjoy the demo below of my game! </li>
+                                    <li className='p-2'>This was a lot of fun of make, please enjoy the demo below of my game!! </li>
                                 </ul>   
                             </h6>
                             <hr />
