@@ -38,13 +38,15 @@
 }
 
 body {
-  background-image: url("img/fabric_1.png");
+  /* background-image: url("img/fabric_1.png"); */
+  background-image: url("img/darkbackground.png");
   /* color: rgb(38,44,62); */    
 }
 
 
 #root{
-  font-family: 'Oswald', sans-serif;
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: 'League Gothic', sans-serif;
 }
 
 

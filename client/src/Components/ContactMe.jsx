@@ -11,6 +11,7 @@ const ContactMe = () => {
     <div className='d-flex justify-content-center mb-5' id='Contact'>
       <div className="w-75 shadow p-4 rounded bg-light ">
         <h2 className="mb-3 text-center">Contact Me</h2>
+        <hr />
         <div className='d-flex justify-content-evenly'>
 
           <div className='example'>

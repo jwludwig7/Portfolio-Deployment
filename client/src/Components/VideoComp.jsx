@@ -8,6 +8,7 @@ const VideoComp = () => {
     return (
         <div className='mb-5' id='Vid'>
             <HoverVideoPlayer
+                className='border border-secondary shadow'
                 videoSrc={vid}
                 pausedOverlay={
                     <div class="center">

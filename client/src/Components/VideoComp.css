@@ -5,6 +5,7 @@ video {
 }
 
 .center h1 {
+    font-weight: bold;
     position: absolute;
     text-align: center;
     top: 50%;
@@ -13,6 +14,7 @@ video {
 }
 
 .center h2 {
+    font-weight: bold;
     position: absolute;
     text-align: center;
     top: 60%;
