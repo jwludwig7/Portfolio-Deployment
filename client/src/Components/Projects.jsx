@@ -12,7 +12,7 @@ import '../Components/Projects.css'
 const Projects = () => {
     return (
         <div className=' d-flex justify-content-center mb-5' id='Projects'>
-            <div className='w-75 shadow p-4 rounded divbg'>
+            <div className='divwidth shadow p-4 rounded divbg'>
                 <h1 className='text-center'>Projects</h1>
                 <h6 className='text-center'>In the last couple months I was able to complete three technical projects.</h6>
                 <div>

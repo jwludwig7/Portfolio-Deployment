@@ -6,7 +6,7 @@ import '../Components/AboutMe.css'
 const AboutMe = () => {
     return (
         <div className=' d-flex justify-content-center mb-5' id='About'>
-            <div className='w-75 shadow p-4 rounded divbg'>
+            <div className='divwidth shadow p-4 rounded divbg'>
                 <h1>About Me...</h1>
                 <hr />
                 <p className='psize'>Hello, my name is Jordan and I am a Full Stack Developer. I graduated in 2018 from Alvernia University with a degree in accounting. Out of college I started working as a sales representative for a dairy company, and I worked with this company for four years. Towards the end of my sales representative career, I was looking for something more fulfilling to do with my life. </p>

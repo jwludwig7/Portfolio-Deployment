@@ -29,15 +29,32 @@ a:hover + .content {
 
 }
 
+.divwidth{
+    width: 80%;
+}
+
 @media (max-width: 320px){
     a:hover + .content{
         display: none;
+    }
+    .divwidth{
+        width: 90%;
     }
 }
 
 @media (max-width: 480px){
     a:hover + .content{
         display: none;
+    }
+    .divwidth{
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 600px){
+    .divwidth{
+        width: 90%;
     }
 }
 

@@ -1,6 +1,10 @@
-.imgSize{
-    width: 15%;
+.imgSizee{
+    width: 13%;
     margin: 5px;
+}
+
+.divwidth{
+    width: 80%;
 }
 
 
@@ -12,4 +16,22 @@
 
 .divbg{
     background-color: rgb(238, 238, 238);
+}
+
+@media (max-width: 320px){
+    .divwidth{
+        width: 90%;
+    }
+}
+
+@media(max-width: 480px){
+    .divwidth{
+        width: 90%;
+    }
+}
+
+@media (max-width: 600px){
+    .divwidth{
+        width: 90%;
+    }
 }
