@@ -10,11 +10,9 @@ import '../Components/Technology.css'
 const Technology = () => {
   return (
     <div className=' d-flex justify-content-center mb-5' id='Tech'>
-      <div className='w-75 shadow p-4 rounded bg-light'>
-        <div className='p-3'>
+      <div className='w-75 shadow p-4 rounded divbg'>
         <h1 className='text-center'>Technology</h1>
         <h6 className='text-center'>During my time at The Dojo I was able to learn the following technologies</h6>
-        </div>
         <hr />
         <div className='cleanup '>
           <img className='imgSize' src={html} alt="html" />

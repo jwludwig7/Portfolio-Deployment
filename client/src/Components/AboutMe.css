@@ -10,6 +10,15 @@
     justify-content: space-evenly;
 }
 
+.divbg{
+    background-color: rgb(238, 238, 238);
+}
+
+.psize{
+    font-size: 13pt;
+}
+
+
 @media (max-width: 320px) {
     .flex{
         display: flex;

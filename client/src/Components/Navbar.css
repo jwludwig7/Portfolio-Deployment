@@ -30,6 +30,11 @@
     justify-content: space-around;
 }
 
+.bgSeeThru{
+    background-color: rgb(238, 238, 238);
+    opacity: 0.9;
+}
+
 @media (max-width: 480px) {
     .cleanUp h4{
         display: none;
