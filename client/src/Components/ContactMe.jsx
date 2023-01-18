@@ -21,7 +21,7 @@ const ContactMe = () => {
             </div>
           </div>
           <div className='example'>
-            <a href="https://drive.google.com/file/d/1lNewbp4q7aP9Z1-HalQd8r6HetX40T8U/view?usp=sharing"><img className='logosize' src={resume} alt="resume" /></a>
+            <a href="https://drive.google.com/file/d/1L-RoTFgok2mt-7hmjr7oYrYV26tIvKjE/view?usp=sharing"><img className='logosize' src={resume} alt="resume" /></a>
             <div className='content'>
               <div className='text'>Resume</div>
             </div>
